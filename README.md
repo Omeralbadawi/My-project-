@@ -1,4 +1,3 @@
-# My-project-
-For alx course 
+tail -1 0-iam_betty | wc -c
 
-# project notes 
+
